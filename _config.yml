@@ -10,8 +10,8 @@ plugins:
 # General Site Settings
 title: Callum Bradshaw
 description: "Hi I'm Callum, and I'm a Data Scientist.  My portfolio focuses on interesting projects I've recently undertaken, with a strong emphasis on business impact. Please visit my Github & LinkedIn pages (or download my Resume) by using the links below!"
-baseurl: "/callumbradshaw1/callumbradshaw1.github.io" # the subpath of your site, e.g. /blog
-url: "https://github.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 #-------------------------------
 # About Section
@@ -22,8 +22,8 @@ avatar_image: /img/CallumBradshawPhoto.jpg
 
 #-------------------------------
 # Contact links
-linkedln: "https://linkedln.com/in/callum-bradshaw-527962a8/" # Add your linkedln handle
-github: "https://github.com//callumbradshaw1/callumbradshaw1.github.io"  # Add your github handle
+linkedln: "https://www.linkedin.com/in/callum-bradshaw-527962a8/" # Add your linkedln handle
+github: "https://github.com/callumbradshaw1/callumbradshaw1.github.io"  # Add your github handle
 
 paginate: 6
 paginate_path: "/page/:num"
@@ -51,4 +51,3 @@ defaults:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
