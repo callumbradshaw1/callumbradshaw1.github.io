@@ -17,8 +17,8 @@ url: "https://github.com" # the base hostname & protocol for your site, e.g. htt
 # About Section
 subtitle: Data Science <span style="color:#f58506"> Portfolio </span>
 location: "London, UK"
-resume_url: /docs/resume.docx
-avatar_image: /img/profile_picture.JPG
+resume_url: /docs/Callum Bradshaw Resume 2021.pdf
+avatar_image: /img/CallumBradshawPhoto.jpg
 
 #-------------------------------
 # Contact links
